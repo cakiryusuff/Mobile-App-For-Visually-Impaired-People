@@ -1,0 +1,12 @@
+fastapi
+firebase_admin
+numpy
+opencv_python
+Pillow
+protobuf
+PyYAML
+torch
+ultralytics
+uvicorn
+timm
+datetime

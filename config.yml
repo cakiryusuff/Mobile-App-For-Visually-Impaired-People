@@ -1,0 +1,6 @@
+midas:
+  model_weight: "MiDaS_small"
+  device: "cpu"
+yolo:
+  model_weight: "yolov8s.pt"
+  
